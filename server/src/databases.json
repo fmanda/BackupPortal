@@ -1,0 +1,47 @@
+{
+    "databases" : [
+        {
+            "server" : "192.168.0.62",
+            "servername" : "DevServer",
+            "user" : "sa",
+            "password" : "it@3Serangkai",
+            "isactive" : true
+        },
+        {
+            "server" : "192.168.0.37",
+            "servername" : "ERPTSPM",
+            "user" : "sa",
+            "password" : "masterkey",
+            "isactive" : true
+        },
+        {
+            "server" : "192.168.0.22",
+            "servername" : "Portal",
+            "user" : "sa",
+            "password" : "S4k4r3p3",
+            "isactive" : true
+        },
+        {
+            "server" : "192.168.16.126",
+            "servername" : "FiscalTD",
+            "user" : "sa",
+            "password" : "papapitjengki",
+            "isactive" : true
+        },
+        {
+            "server" : "192.168.16.142",
+            "servername" : "Fiscal",
+            "user" : "sa",
+            "password" : "papapitjengki",
+            "isactive" : true
+        },
+        {
+            "server" : "192.168.16.146",
+            "servername" : "Fiscal",
+            "user" : "sa",
+            "password" : "papapitjengki",
+            "isactive" : true
+        }
+
+    ]
+}
